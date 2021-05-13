@@ -6,6 +6,7 @@ This is an attempt towards making Deep Learning more friendly and approachable. 
 Go through Each Repository and try on your own machine, having GPU is a plus.
 
 ## Medium Articles
+* [Computer Vision (AI) in Production using Nvida-DeepStream](https://vdeepvision.medium.com/computer-vision-ai-in-production-using-nvida-deepstream-6c90d3daa8a5)
 * [Setting up TensorFlow 1.14 in bare Windows](https://medium.com/@deep12vish/setting-up-tensorflow-1-14-in-bare-windows-adc429ab792c)
 * [Practical aspects to select a Model for Object Detection](https://medium.com/@deep12vish/practical-aspects-to-select-a-model-for-object-detection-c704055ab325)
 * [TensorFlow Object Detection in Windows (under 30 lines)](https://medium.com/@deep12vish/tensorflow-object-detection-in-windows-under-30-lines-d6776586c4ab)
